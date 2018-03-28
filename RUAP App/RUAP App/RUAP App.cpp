@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Pozdrav iz aplikacije od Branimir Kedaèiæ \n");
+	printf("Moj broj indeksa R3426 \n");
     return 0;
 }
 
